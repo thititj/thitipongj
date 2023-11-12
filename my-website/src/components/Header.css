@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .header img {
+    max-width: 20%;
+    border-radius: 20%;
+  }
+  
+  /* Add styles for LinksContainer and LinkItem as needed */
+  
